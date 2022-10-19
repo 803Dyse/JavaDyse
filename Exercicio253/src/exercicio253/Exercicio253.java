@@ -14,10 +14,10 @@ public class Exercicio253 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int x = 0;
+        int x = 9876;
         int y = x;
 
-        while (y < 10) {
+        while (y < 9886) {
             System.out.println(y);
             y++;
 
