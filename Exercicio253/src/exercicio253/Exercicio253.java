@@ -5,12 +5,15 @@
 package exercicio253;
 
 /**
- *
+ *Esta es la clase principal
+ * 
  * @author Bilo Alejandro Martins Gonzalez
  */
 public class Exercicio253 {
 
     /**
+     * Metodos de la clase principal
+     * 
      * @param args the command line arguments
      */
     public static void main(String[] args) {

@@ -9,7 +9,7 @@ package exercicio251;
 
 /**
  *
- *
+ * Esta es la clase principal
  *
  * @author Bilo Alejandro Martins Gonzalez
  *
@@ -18,6 +18,8 @@ public class Exercicio251 {
 
     /**
      *
+     *  Metodos de la clase principal
+     * 
      * @param args the command line arguments
      *
      */
